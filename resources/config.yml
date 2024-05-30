@@ -1,0 +1,6 @@
+# Border level.
+level: "world"
+# Border size.
+size: "500"
+# Border message
+message: "§b[SERVER] §eYou are not allowed to go there!"
